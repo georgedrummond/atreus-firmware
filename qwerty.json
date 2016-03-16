@@ -1,7 +1,7 @@
 [[["Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P"],
   ["A", "S", "D", "F", "G", "H", "J", "K", "L", "SEMICOLON"],
   ["Z", "X", "C", "V", "B", "ALT", "N", "M", "COMMA", "PERIOD", "SLASH"],
-  ["ESC", "TAB", "GUI", "SHIFT", "BACKSPACE", "CTRL",
+  ["ESC", "TAB", "SHIFT", "BACKSPACE", "GUI", "CTRL",
    "SPACE", "FN", "MINUS", "QUOTE", "ENTER"]],
  [[["shift", "1"], ["shift", "2"], ["shift", "LEFT_BRACE"], ["shift", "RIGHT_BRACE"],
    ["shift", "BACKSLASH"], "PAGE_UP", "7", "8", "9", ["shift", "8"]],
